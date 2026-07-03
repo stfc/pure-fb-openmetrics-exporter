@@ -1,6 +1,6 @@
 module purestorage/fb-openmetrics-exporter
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/akamensky/argparse v1.4.0
@@ -18,7 +18,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/prometheus/common v0.65.0 // indirect
 	github.com/prometheus/procfs v0.17.0 // indirect
-	golang.org/x/net v0.42.0 // indirect
-	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )
